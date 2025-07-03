@@ -1,1 +1,0 @@
-date = datetime.strptime("2020-10-21", "%Y-%m-%d")# the % symbol indicates where the values are located in the string before it, it indicates the format of the previous string in other words
