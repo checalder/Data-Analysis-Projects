@@ -57,5 +57,5 @@ This project tracks PM2.5, PM10, and NO₂ pollution across several UK cities ov
    ```
    pip install pandas matplotlib
    ```
-4. Run the script (`main.py`) to populate the database and generate plots
+4. Run the script (`databaser.py`) and ('analysis.py') to populate the database, then generate analytical plots
 5. Open `air_quality.db` in DB Browser or analyze via code
