@@ -1,6 +1,6 @@
 # 🌍 City Air Quality Tracker
 
-A Python + SQLite project that simulates environmental monitoring of air pollution across major UK cities. This project builds real-world skills in SQL, data analysis, and data visualization.
+A Python + SQLite project that simulates monitoring of air pollution across major UK cities. This project builds practical skills in SQL, data analysis, and data visualization.
 
 ---
 
@@ -57,5 +57,4 @@ This project tracks PM2.5, PM10, and NO₂ pollution across several UK cities ov
    ```
    pip install pandas matplotlib
    ```
-4. Run the script (`databaser.py`) and ('analysis.py') to populate the database, then generate analytical plots
-5. Open `air_quality.db` in DB Browser or analyze via code
+4. Run the script (`databaser.py`) to populate the database, then ('analysis.py') to generate analytical plots and a matplotlib graph
